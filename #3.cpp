@@ -6,12 +6,12 @@ using namespace std;
 
 int main()
 {
-    int n,num,i,j,p;
+    long long int n,num,i,j,p;
     cin>>n;
     for(i=0;i<n;i++)
     {
         cin>>num;
-        int prime[num+1];
+        long long int prime[num+1];
         for(j=0;j<=num;j++)
         {
             prime[j]=1;
