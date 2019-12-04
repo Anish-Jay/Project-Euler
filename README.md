@@ -1,2 +1,4 @@
 # Project-Euler
-Project Euler from Hackerrank
+Solutions to Project Euler from Hackerrank
+
+[https://www.hackerrank.com/contests/projecteuler/challenges]
